@@ -1,5 +1,5 @@
 {
-  "name": "bedezign/yii2-audit",
+  "name": "doohlabs/yii2-audit",
   "description": "Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.",
   "keywords": [
     "yii2",
@@ -24,6 +24,10 @@
       "name": "Marc Hollander",
       "homepage": "http://maruc.nl/",
       "email": "marchollander@gmail.com"
+    },
+    {
+      "name": "Tony Wahlberg",
+      "email": "tony.wahlberg@doohlabs.com"
     }
   ],
   "require": {
